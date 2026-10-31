@@ -27,7 +27,7 @@
 <br>
 
 <!-- LASER LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,50:00F0FF,100:FF003C&height=3&section=footer" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ### 🖥️ <code>// 01_NEURAL_TELEMETRY (DIAGNOSTICS_LOG)</code>
 
@@ -44,7 +44,7 @@
 ```
 
 <!-- LASER LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,50:00F0FF,100:FF003C&height=3&section=footer" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ### 🛠️ <code>// 02_CYBERWARE_ARSENAL (TECH STACK)</code>
 
@@ -75,6 +75,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7928CA,100:FF003C&height=3&section=footer" width="100%" />
 
 ### 📈 <code>// 03_NETWORK_ACTIVITY (TRANSMISSION GRAPH)</code>
+
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HellXCore&bg_color=0A0B10&color=00F0FF&line=FF003C&point=FCEE0A&area=true&hide_border=false&border_color=00F0FF" width="100%" alt="Activity Graph" />
