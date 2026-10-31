@@ -1,8 +1,14 @@
-<!-- ================= CYBERPUNK HERO BANNER ================= -->
+<!-- ================= CYBERPUNK HUD WINDOW ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05050A,45:00F0FF,100:FF003C&height=160&section=header&text=NETRUNNER%20//%20SYSTEM_OVERRIDE&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" />
+  <!-- Верхняя строка терминала -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0B10,100:0A0B10&height=38&section=header&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20%20%20%20%20NETRUNNER_DECK%20%3A%3A%20%5B%20HellXCore%20%2F%2F%20NODE_0x7F%20%5D&fontSize=13&fontColor=00F0FF&fontAlign=center&fontAlignY=65" width="100%" />
+  <!-- Арт ночного города -->
   <img src="https://raw.githubusercontent.com/ninken/ninken/master/cyberpunk.gif" width="100%" height="220" style="object-fit: cover;" alt="Night City Cyberpunk Banner" />
+  <!-- Тонкая неоновая окантовка снизу -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF003C,100:00F0FF&height=3&section=footer" width="100%" />
 </div>
+
+<br>
 
 <!-- TELEMETRY BADGES -->
 <p align="center">
@@ -21,7 +27,7 @@
 <br>
 
 <!-- LASER LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF003C,100:00F0FF&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,50:00F0FF,100:FF003C&height=3&section=footer" width="100%" />
 
 ### 🖥️ <code>// 01_NEURAL_TELEMETRY (DIAGNOSTICS_LOG)</code>
 
