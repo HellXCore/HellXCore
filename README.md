@@ -56,12 +56,16 @@
   <br><br>
   <p><b>[BACKEND_CORES & DATA_STORES]</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,cs,cpp,docker&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,java,cs,cpp,docker&perline=8&theme=dark" />
   </a>
   <br><br>
   <p><b>[INFILTRATION & SYSTEM TOOLS]</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,bash,vscode,postman,arch&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=godot,unity,vscode,blender&perline=7&theme=dark" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,bash,arch,linux&perline=7&theme=dark" />
   </a>
 </div>
 
