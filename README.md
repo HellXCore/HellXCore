@@ -31,8 +31,8 @@
 
 ### 🖥️ <code>// 01_NEURAL_TELEMETRY (DIAGNOSTICS_LOG)</code>
 
-```txt
-┌──[ SYSTEM TELEMETRY :: CYBERDECK OS v4.0 ]──────────────────┐
+<pre style="font-family: monospace; width: 75ch;">
+┌──[ SYSTEM TELEMETRY :: CYBERDECK OS v4.0 ]──────────────────────────────┐
 │  OPERATOR     : Hellsong (nickname: HellXCore)                          │
 │  AFFILIATION  : Digital Underground / Freelance Architect               │
 │  LOCATION     : Night City (Sector 0x7F)                                │
@@ -40,8 +40,8 @@
 │  SUBSYSTEMS   : OpenSource, VibeCoding, Learning programming            │
 │  LANG         : RU, EN                                                  │
 │  STATUS       : OVERCLOCKED [SYS_INTEGRITY: 99.8%]                      │
-└──────────────────────────────────────────────┘
-```
+└─────────────────────────────────────────────────────────────────────────┘
+</pre>
 
 <!-- LASER LINE -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
