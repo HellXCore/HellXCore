@@ -68,9 +68,11 @@
 
 ### 📈 <code>// 03_NETWORK_ACTIVITY (TRANSMISSION GRAPH)</code>
 
-<div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink" alt="Contribution Graph" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HellXCore&bg_color=0A0B10&color=00F0FF&line=FF003C&point=FCEE0A&area=true&hide_border=false&border_color=00F0FF" width="100%" alt="Activity Graph" />
