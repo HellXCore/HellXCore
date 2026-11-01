@@ -31,22 +31,8 @@
 
 ### 🖥️ <code>// 01_NEURAL_TELEMETRY (DIAGNOSTICS_LOG)</code>
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td style="font-family: monospace; font-size: 14px; line-height: 1.4; white-space: pre; background-color: #0d1117; color: #58a6ff; padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
-┌──[ SYSTEM TELEMETRY :: CYBERDECK OS v4.0 ]──────────────────────────────┐
-│  OPERATOR     : Hellsong (nickname: HellXCore)                          │
-│  AFFILIATION  : Digital Underground / Freelance Architect               │
-│  LOCATION     : Night City (Sector 0x7F)                                │
-│  STACK_CORES  : Python • JavaScript • C# • C++                          │
-│  SUBSYSTEMS   : OpenSource, VibeCoding, Learning programming            │
-│  LANG         : RU, EN                                                  │
-│  STATUS       : OVERCLOCKED [SYS_INTEGRITY: 99.8%]                      │
-└─────────────────────────────────────────────────────────────────────────┘
-      </td>
-    </tr>
-  </table>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/c878446d-5435-419b-8add-89f46052a0c0" width="60%" alt="carbon">
 </p>
 
 <!-- LASER LINE -->
@@ -82,7 +68,9 @@
 
 ### 📈 <code>// 03_NETWORK_ACTIVITY (TRANSMISSION GRAPH)</code>
 
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink)
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink" alt="Contribution Graph" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HellXCore&bg_color=0A0B10&color=00F0FF&line=FF003C&point=FCEE0A&area=true&hide_border=false&border_color=00F0FF" width="100%" alt="Activity Graph" />
