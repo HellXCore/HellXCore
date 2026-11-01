@@ -32,7 +32,7 @@
 ### 🖥️ <code>// 01_NEURAL_TELEMETRY (DIAGNOSTICS_LOG)</code>
 
 <p align="center">
-  <table align="left">
+  <table align="center">
     <tr>
       <td style="font-family: monospace; font-size: 14px; line-height: 1.4; white-space: pre; background-color: #0d1117; color: #58a6ff; padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
 ┌──[ SYSTEM TELEMETRY :: CYBERDECK OS v4.0 ]──────────────────────────────┐
