@@ -77,19 +77,6 @@
   </picture>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HellXCore&bg_color=0A0B10&color=00F0FF&line=FF003C&point=FCEE0A&area=true&hide_border=false&border_color=00F0FF" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HellXCore&show_icons=true&hide_border=false&title_color=00F0FF&icon_color=FF003C&text_color=FFFFFF&bg_color=0A0B10&border_color=00F0FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellXCore&layout=compact&hide_border=false&title_color=FCEE0A&text_color=FFFFFF&bg_color=0A0B10&border_color=FCEE0A" alt="Top Languages" />
-</div>
-
-<br>
-
 <!-- LASER LINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,50:7928CA,100:00F0FF&height=3&section=footer" width="100%" />
 
